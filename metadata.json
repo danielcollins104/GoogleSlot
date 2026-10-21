@@ -1,0 +1,6 @@
+{
+  "name": "Hidden Treasures: Social Slot & Sweepstakes",
+  "description": "Premium 5x3 social slot game featuring two virtual currencies, sweepstakes redemption framework, rich bonus rounds, and treasure expedition theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
